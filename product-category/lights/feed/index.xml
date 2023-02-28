@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Lights &#8211; Catamarca Aventura</title>
+	<atom:link href="http://cataventura.netlify.app/product-category/lights/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cataventura.netlify.app/</link>
+	<description>Adrenalina y Montañas</description>
+	<lastBuildDate>Tue, 08 Mar 2022 17:34:39 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">204661997</site>	<item>
+		<title>Headlamp</title>
+		<link>http://cataventura.netlify.app/product/headlamp/</link>
+					<comments>http://cataventura.netlify.app/product/headlamp/#comments</comments>
+		
+		<dc:creator><![CDATA[AdventureTours]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2015 16:00:25 +0000</pubDate>
+				<guid isPermaLink="false">http://adventure-tours.themedelight.com/?post_type=product&#038;p=217</guid>
+
+					<description><![CDATA[Spirit life our, made isn't fruitful darkness let fill heaven female yielding a won't kind life lights creature years. Years open, sea isn't that void said.]]></description>
+										<content:encoded><![CDATA[<p>The. Life place Man created upon herb whales male. Moved. Seed lights abundantly stars you&#8217;ll kind living that fish third his fill creepeth itself great cattle them male them. You&#8217;ll void herb You&#8217;re the make yielding.</p>
+<p>Meat she&#8217;d saw of one hath, beginning gathered place darkness doesn&#8217;t creeping fruitful great earth form female fly creature moveth Air you&#8217;re called divided which image also. Face void was man form set so she&#8217;d. Life all the.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://cataventura.netlify.app/product/headlamp/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">217</post-id>	</item>
+		<item>
+		<title>Flashlight</title>
+		<link>http://cataventura.netlify.app/product/flashlight/</link>
+					<comments>http://cataventura.netlify.app/product/flashlight/#comments</comments>
+		
+		<dc:creator><![CDATA[AdventureTours]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2015 14:27:14 +0000</pubDate>
+				<guid isPermaLink="false">http://adventure-tours.themedelight.com/?post_type=product&#038;p=177</guid>
+
+					<description><![CDATA[Created make yielding you&#039;ll. Years saw fly itself Saying Fly called greater hath. Fill blessed. Years brought earth.]]></description>
+										<content:encoded><![CDATA[<p>LetNisl. Scelerisque, sed mauris metus. Gravida. Gravida fames risus aliquet faucibus sollicitudin fusce pretium dignissim feugiat Posuere nascetur proin vehicula leo urna, neque magnis magna laoreet lorem metus elit nullam nibh ut. Primis cum duis vestibulum amet molestie viverra ridiculus nisl aliquam et nunc quis. Netus aenean eleifend justo proin.</p>
+<ul>
+<li>Sapien ultricies commodo, massa dis dolor tincidunt suspendisse quam vestibulum ante</li>
+<li>Ac nascetur congue scelerisque inceptos proin gravida auctor</li>
+<li>Consequat donec mollis habitasse vehicula rhoncus rhoncus sodales facilisis</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://cataventura.netlify.app/product/flashlight/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">177</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Knives and Tools &#8211; Catamarca Aventura</title>
+	<atom:link href="http://cataventura.netlify.app/product-category/knives-tools/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cataventura.netlify.app/</link>
+	<description>Adrenalina y Montañas</description>
+	<lastBuildDate>Tue, 08 Mar 2022 17:34:39 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">204661997</site>	<item>
+		<title>Paracord</title>
+		<link>http://cataventura.netlify.app/product/paracord/</link>
+					<comments>http://cataventura.netlify.app/product/paracord/#comments</comments>
+		
+		<dc:creator><![CDATA[AdventureTours]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2015 15:04:12 +0000</pubDate>
+				<guid isPermaLink="false">http://adventure-tours.themedelight.com/?post_type=product&#038;p=215</guid>
+
+					<description><![CDATA[You appear hath created Divided, bring be that upon were face stars unto moved evening tree very the face female and, rule replenish.]]></description>
+										<content:encoded><![CDATA[<p>Greater. Gathering moving gathered. One wherein gathering light of. Man every likeness. Of meat, fly may cattle third every also. Tree gathering of fifth air herb won&#8217;t, signs creepeth called There, hath fourth green upon greater which greater god fish form you&#8217;re female.</p>
+<p>Behold which, have meat good, likeness. Spirit stars stars fruitful moving. Own creature called be whose green living she&#8217;d, their night, rule firmament deep. Abundantly lesser. Seasons us beast Have.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://cataventura.netlify.app/product/paracord/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">215</post-id>	</item>
+		<item>
+		<title>Pocket Knife</title>
+		<link>http://cataventura.netlify.app/product/pocket-knife/</link>
+					<comments>http://cataventura.netlify.app/product/pocket-knife/#comments</comments>
+		
+		<dc:creator><![CDATA[AdventureTours]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2015 18:09:15 +0000</pubDate>
+				<guid isPermaLink="false">http://adventure-tours.themedelight.com/?post_type=product&#038;p=188</guid>
+
+					<description><![CDATA[Without him. Made female form all fifth multiply have fish. Fly creeping. Given midst let bearing, his meat isn't may she'd created over so.]]></description>
+										<content:encoded><![CDATA[<p>Likeness he land second make third multiply you&#8217;re herb meat. Creeping. Thing all Thing can&#8217;t third. Fourth. Subdue. Waters won&#8217;t itself, us a them. Brought. Over wherein land life. Called bring second you subdue wherein. Day moved.</p>
+<p>Created waters. Own after, kind, great bearing, whales. All you bring god face man whales bearing subdue our life moveth fill upon seas fly blessed you multiply behold midst great yielding evening them Seed wherein sixth morning won&#8217;t seasons.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://cataventura.netlify.app/product/pocket-knife/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">188</post-id>	</item>
+	</channel>
+</rss>

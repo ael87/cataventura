@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Sleeping Bags &#8211; Catamarca Aventura</title>
+	<atom:link href="http://cataventura.netlify.app/product-category/sleeping-bags/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cataventura.netlify.app/</link>
+	<description>Adrenalina y Montañas</description>
+	<lastBuildDate>Tue, 28 Jul 2015 14:40:42 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">204661997</site>	<item>
+		<title>Sleeping Bag</title>
+		<link>http://cataventura.netlify.app/product/sleeping-bag/</link>
+					<comments>http://cataventura.netlify.app/product/sleeping-bag/#respond</comments>
+		
+		<dc:creator><![CDATA[AdventureTours]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2015 14:40:42 +0000</pubDate>
+				<guid isPermaLink="false">http://adventure-tours.themedelight.com/?post_type=product&#038;p=211</guid>
+
+					<description><![CDATA[Dry which created under multiply which. Him. Above said dry him day herb. Void day were. Saying, may one given.]]></description>
+										<content:encoded><![CDATA[<p>Behold. Behold set it shall set. Don&#8217;t moving. Day second cattle called them two, bearing fly firmament. Heaven moving, upon from that first his fowl sea fill replenish signs days. Appear whales had Lesser likeness moving don&#8217;t.</p>
+<p>Were void cattle from give second land one image own morning yielding. Days. Fruitful two itself seasons bring seasons darkness don&#8217;t give Which years very. Hath them signs without seed.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://cataventura.netlify.app/product/sleeping-bag/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">211</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Lake Tahoe Adventure	</title>
+	<atom:link href="http://cataventura.netlify.app/product/lake-tahoe-adventure/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cataventura.netlify.app/product/lake-tahoe-adventure/</link>
+	<description>Adrenalina y Montañas</description>
+	<lastBuildDate>Tue, 08 Mar 2022 17:34:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		Por: John		</title>
+		<link>http://cataventura.netlify.app/product/lake-tahoe-adventure/#comment-3</link>
+
+		<dc:creator><![CDATA[John]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2015 11:53:45 +0000</pubDate>
+		<guid isPermaLink="false">http://adventure-tours.themedelight.com/?post_type=product&#038;p=111#comment-3</guid>
+
+					<description><![CDATA[I had a wonderful time during the trip. The guide was informative, friendly and attentive to our entire group! I definitely plan to be a returning customer and recommend this to my friends and family!]]></description>
+			<content:encoded><![CDATA[<p>I had a wonderful time during the trip. The guide was informative, friendly and attentive to our entire group! I definitely plan to be a returning customer and recommend this to my friends and family!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Justin		</title>
+		<link>http://cataventura.netlify.app/product/lake-tahoe-adventure/#comment-2</link>
+
+		<dc:creator><![CDATA[Justin]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2015 11:48:39 +0000</pubDate>
+		<guid isPermaLink="false">http://adventure-tours.themedelight.com/?post_type=product&#038;p=111#comment-2</guid>
+
+					<description><![CDATA[Facilisi nostra penatibus mattis laoreet, vestibulum nec. Pede mi elit iaculis mus enim, parturient. Duis sociis augue augue ac turpis lacus aliquam quisque ultricies odio quam nascetur enim gravida nonummy.]]></description>
+			<content:encoded><![CDATA[<p>Facilisi nostra penatibus mattis laoreet, vestibulum nec. Pede mi elit iaculis mus enim, parturient. Duis sociis augue augue ac turpis lacus aliquam quisque ultricies odio quam nascetur enim gravida nonummy.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

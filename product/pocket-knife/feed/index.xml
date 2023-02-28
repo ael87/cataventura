@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Pocket Knife	</title>
+	<atom:link href="http://cataventura.netlify.app/product/pocket-knife/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cataventura.netlify.app/product/pocket-knife/</link>
+	<description>Adrenalina y Montañas</description>
+	<lastBuildDate>Tue, 08 Mar 2022 17:34:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		Por: John		</title>
+		<link>http://cataventura.netlify.app/product/pocket-knife/#comment-12</link>
+
+		<dc:creator><![CDATA[John]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2015 16:24:49 +0000</pubDate>
+		<guid isPermaLink="false">http://adventure-tours.themedelight.com/?post_type=product&#038;p=188#comment-12</guid>
+
+					<description><![CDATA[Inceptos commodo curae; mollis per aenean interdum vivamus magnis inceptos sollicitudin integer. Egestas nam auctor inceptos elementum massa vehicula ac faucibus amet augue amet aptent at integer. Leo, dapibus sit.]]></description>
+			<content:encoded><![CDATA[<p>Inceptos commodo curae; mollis per aenean interdum vivamus magnis inceptos sollicitudin integer. Egestas nam auctor inceptos elementum massa vehicula ac faucibus amet augue amet aptent at integer. Leo, dapibus sit.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
